@@ -1,6 +1,6 @@
 title: Ranking de Sabores de Trento
 description: Uma análise saborosa dos melhores sabores de Trento.
 author: Paulo
-baseurl: ""
+baseurl: "/ranking-trento"
 url: "https://dev-pmartins.github.io/ranking-trento/"
 theme: minima
